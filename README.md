@@ -12,7 +12,7 @@ TL;DR: Why not. Just wanted to have a CLI framework for a language that has most
 - Start writing simple labels and workflows incorporating [cursesKit](https://github.com/theBreadCompany/cursesKit)
 
 ### Implementation concepts
-Please have a look at  
+Please have a look at [the concepts](concepts/concepts.md)
 
 # Usage
 TODO

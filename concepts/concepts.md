@@ -12,7 +12,7 @@ You will mostly find me rambling about theoretical stuff and examples on how thi
 
 ### Production
 - [LABELS](Production/Text.md)
-- [MENUS]((Production/Menu.md)
+- [MENUS](Production/Menu.md)
 
 ## TODO (aka missing concepts)
 - modifiers
