@@ -46,3 +46,6 @@ var body: some View {
 	])
 }   
 ```
+
+Bigger examples have to be supplied to make the actual difference visible, 
+but some concepts are still missing know how they would even look like. 
