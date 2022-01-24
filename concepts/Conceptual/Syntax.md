@@ -44,4 +44,5 @@ var body: some View {
 		CMenuItem(title: "go to randomView", linkingTo: RandomView())
 		CMenuItem(title: "go to testView", linkingTo: TestView()
 	])
+}   
 ```
